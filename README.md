@@ -1,7 +1,7 @@
 # Pi Voice Control
 This is a fork of https://github.com/StevenHickson/PiAUISuite that has been modified for use in my project https://github.com/fearthis4/jarvis-pi
 
-Includes voicecommand, speech2text, run-command, mqtt scripts
+Includes voicecommand, speech-recog, check internet, check network, mqtt scripts
 
 This requires:
 
@@ -31,7 +31,10 @@ It will:
 
 Name | Purpose | Blogpost
 -----|---------|---------
-
+speech-recog.sh | wrapper script for speech recognition | TBD
+mqtt_sclient.py | script to send mqtt updates to mqtt server | TBD
+check_network.sh | script to check network connection | TBD
+check_internet.sh | script to check internet connection | TBD
 
 Copyright
 
