@@ -8,7 +8,7 @@ This requires:
 * boost
 * curl
 * xterm
-* espeak
+* pico2wave
 * some other things
 
 To install the dependencies, run:
